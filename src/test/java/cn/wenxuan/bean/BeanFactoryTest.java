@@ -2,6 +2,9 @@ package cn.wenxuan.bean;
 
 import junit.framework.TestCase;
 
+/**
+ * 测试bean工厂
+ */
 public class BeanFactoryTest extends TestCase {
 
     public void testUserService() {

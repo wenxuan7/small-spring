@@ -1,5 +1,8 @@
 package cn.wenxuan.bean;
 
+/**
+ * 查询用户信息
+ */
 public class UserService {
 
     public void queryUserInfo() {
